@@ -8,8 +8,10 @@ print(thislist)
 
 # Sort a list
 thislist = [100, 50, 65, 82, 23]
+sorted(thislist)
+print(thislist)
 
 # Needs assigning
-sorted(thislist)
+a = sorted(thislist)
 print("# ---- needs assgining ------- #")
-print(thislist)
+print(a)
