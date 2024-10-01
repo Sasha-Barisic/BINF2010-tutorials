@@ -7,7 +7,7 @@
 | Week | Tutorial  | Folder |
 | ------------- | ------------- | ------------- |
 | 2  | Python basics  | [python-basics](/python-basics/) |
-| 4  | Loops, functions and user input in Python | Not available |
+| 4  | Loops, functions and user input in Python | [data-wrangling](/data-wrangling/) |
 | 5  | Biopython basics  | Not available |
 | 7  | Biopython advanced  | Not available |
 | 8  | R basics  | Not available |
